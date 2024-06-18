@@ -1,0 +1,10 @@
+###
+POST http://localhost:80/get
+Content-Type: application/json
+
+{
+  "key": "amount",
+  "value": "2"
+}
+###
+
